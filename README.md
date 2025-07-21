@@ -57,12 +57,14 @@ Once dependencies are installed, run the analysis script:
 python analysis.py
 
 ## 📈 Sample Visuals
-<img width="1536" height="754" alt="Figure_1" src="https://github.com/user-attachments/assets/746c5476-41d6-49f0-b449-dd6912f93bc1" />
+
+<img width="1536" height="754" alt="Figure_1" src="https://github.com/user-attachments/assets/af8664ab-8399-4f98-98ff-03b7439831cb" />
 
 
-<img width="1536" height="754" alt="project_2 fig" src="https://github.com/user-attachments/assets/a41956f9-af75-428a-a999-c7b9d13f8874" />
 
-## 👨‍💻 Author
+ <img width="1536" height="754" alt="Figure_5" src="https://github.com/user-attachments/assets/f13c4ca7-831b-4fb2-beb7-585b7141785e" />
+
+## 👨‍💻Author
 
 **Lohith Reddy Danda**  
 PG Diploma Student | Conestoga College  
